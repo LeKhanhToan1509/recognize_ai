@@ -1,0 +1,3 @@
+/backend/backend/qdrant_data
+/backend/backend/src/tasks/weights
+*.pyc

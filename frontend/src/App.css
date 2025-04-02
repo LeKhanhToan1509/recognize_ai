@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+
+.root {
+    background-image: url('D:\prj_python\frontend\public\images\main_bg.svg'); 
+    width: 100%;
+    height: 100vh; 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+}
